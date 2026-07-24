@@ -7,16 +7,7 @@ Transformo ideias complexas e processos manuais em produtos digitais escaláveis
 Meu foco é projetar arquiteturas sólidas e eficientes que otimizam operações, impulsionam negócios e entregam valor real ao usuário final.
 Além disso, crio conteúdo e compartilho conhecimento sobre engenharia de software, ecossistema SaaS e tecnologia aplicada a negócios.
 
-Onde me encontrar
- 
-<p align="left">
-<a href="https://github.com/fabio-cavalcante-dev">
-<img src="https://img.shields.io/badge/GitHub-fabio-cavalcante-dev-181717?style=for-the-badge&logo=github" />
-</a>
-<a href="https://instagram.com/oreidosites">
-<img src="https://img.shields.io/badge/Instagram-@OREIDOSITES-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-</p>
+
  O que eu faço
 SaaS e sistemas web de alta performance
 Automações de processos e rotinas
